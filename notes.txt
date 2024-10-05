@@ -1,0 +1,22 @@
+** React Native** : Rect Native is an open source framework for building native android and IOS apps using React
+
+it uses JavaScript to access plotform specific API's (like camera nad push notification)
+it uses React components to define the appearance and behavior of user interface
+React itself is a library designed for building user interfaces 
+rect dom for web apps and react native for mobile apps
+
+IOS apps require Swift or Objective-C 
+Android apps require Java or Kotlin
+React Native allows you to use JavaScript to build native apps for both platforms
+With approximalely 31% on IOs and 68% on Android
+Microdoft, Meta, Tesla, Pinterest, Discord uses React Native
+
+
+
+
+
+
+
+**Flutter**: Flutter is an open source mobile app development framework created by Google.
+**Xamarin**: Xamarin is a framework for building cross-platform mobile apps using C# and the .NET framework.
+**Ionic**: Ionic is a framework for building hybrid mobile apps using web technologies such as HTML, CSS and JavaScript.
